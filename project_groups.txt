@@ -10,3 +10,10 @@ _We don't engineer software, software engineers us!_
 
   * Namey McNamerson
   * Name N. Namer
+
+## The Dining Philosophers
+
+_// TODO: Think of funny yet clever team motto_
+
+ * Nicholas Denu
+ * Brandon Torchia
